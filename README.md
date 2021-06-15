@@ -1,4 +1,4 @@
-# Probablistic-Search
+# Probabilistic-Search
 Problem: We have a landscape represented by a map of cells. The cells can be of four terrain types - 'flat', 'hilly', 'forested', ' complex maze of caves and tunnels'. There is a target hidden in one of the cells. Initially, the target is equally likely to be anywhere in the landscape. There is a chance that even if a target is there, you may not find it, depending on the terrain type:
 
 P(Target not found in cell|Target in cell) = 0.1; if cell is flat
